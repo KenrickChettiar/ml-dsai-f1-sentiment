@@ -2,3 +2,4 @@
 *.csv
 *.xlsx
 filter_regulations.py
+sentiment.py
